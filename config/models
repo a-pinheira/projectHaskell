@@ -1,0 +1,5 @@
+Aluno
+    nome   Text
+    ra     Text
+    dtNasc Day
+    deriving Show
